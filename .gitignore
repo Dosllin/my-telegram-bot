@@ -1,6 +1,0 @@
-users/
-*.pyc
-__pycache__
-.DS_Store
-.env
-media/qr/*.png
